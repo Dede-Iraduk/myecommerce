@@ -1,0 +1,81 @@
+* body{ 
+
+    /* background-image: url(image/imagefood3.jfif); */
+    background:slategrey !important;
+    
+    background-position: center;
+    background-size: cover;
+    height: 150vh;
+  
+    }
+    .register_page{
+        width: 350px;
+        padding: 1% 2 2;
+        margin: auto;
+        height: 450px;
+        background-color: brown !important;
+        }
+      
+    
+   
+    
+    .form{
+    position: relative;
+    z-index: 1;
+    
+    background-color: wheat;
+    box-shadow: 0 0 17px rgb(184, 88, 120) ;
+    max-width: 360px;
+    margin: 0 auto 100px;
+    padding: 45px;
+    height: 500px;
+    text-align: center;
+    }
+    .form h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    color: black;
+    }
+    
+    .form input{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    outline: 1;
+    background: darkslategray;
+    width: 100%;
+    border: 0;
+    margin: 0 0 1px;
+    padding: 5px;
+    box-sizing: border-box;
+    font-size: 14px;
+    
+    }
+    
+    
+    .form button 
+    {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-transform: uppercase;
+    outline: 0;
+    background: coral;
+    width: 100px; 
+    border: 0;
+    padding: 15px;
+    color: black;
+    font-style: italic;
+    }
+    .form button:hover,.form button:active{
+    background: cyan;
+    }
+    
+    .form .asking{
+    margin: 1px 0 0;
+    color: blueviolet;
+    
+    }
+    .form .asking.a{
+    color:coral ;
+    text-decoration: solid;
+    }
+    
+    
+    
